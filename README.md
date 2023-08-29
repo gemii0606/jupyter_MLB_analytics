@@ -1,1 +1,1 @@
-# jupyter_MLB_analytics
+## It's a python work for MLB analytics, and it should be conducted with jupyterlab.
